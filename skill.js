@@ -1,0 +1,29 @@
+function skill(){
+    return(
+        <div>
+        <h3><u>SKILLS</u></h3>
+        <p>
+            c++
+        </p>
+        <p>
+            java
+        </p>
+        <p>
+            html
+        </p>
+        <p>
+            css
+        </p>
+        <p>
+            js
+        </p>
+        <p>
+            SQL
+        </p>
+        <p>
+            OOPS
+        </p>
+        </div>
+    )
+}
+export default skill;
